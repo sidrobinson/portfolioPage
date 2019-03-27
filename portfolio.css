@@ -11,6 +11,8 @@ body {
     padding: 30px;
     width: 400px;
     margin-left: 350px;
+
+    /* makes border circular below */
     border-radius: 50%;
 }
 
