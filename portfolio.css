@@ -3,11 +3,15 @@ body {
 }
 
 .head {
-    height: 30px;
+    background-color: blueviolet;
+    height: 50px;
     text-align: center;
     font-size: 50px;
     position: relative;
     padding: 30px;
+    width: 400px;
+    margin-left: 350px;
+    border-radius: 50%;
 }
 
 .border {
